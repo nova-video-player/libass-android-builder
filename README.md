@@ -12,7 +12,12 @@ bash ./build.sh
 Requirements:
 - Android SDK & NDK
 - Autotools (autoconf, automake, libtool)
-- prebuilt FreeType (via libfreetype-android-builder)
-- prebuilt FriBidi (via libfribidi-android-builder)
+- prebuilt Fontconfig (via fontconfig-android-builder)
 - prebuilt HarfBuzz (via harfbuzz-android-builder)
+- prebuilt FriBidi (via libfribidi-android-builder)
+- prebuilt FreeType (via libfreetype-android-builder)
+- prebuilt libunibreak (via libunibreak-android-builder)
+- prebuilt libxml2 (via libxml2-android-builder)
+- prebuilt libpng (via libpng-android-builder)
+- prebuilt zlib (via zlib-android-builder)
 - some dev tools
